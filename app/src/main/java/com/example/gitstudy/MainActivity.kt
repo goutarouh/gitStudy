@@ -20,4 +20,9 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("hasegawa", "まだまだ変更するよ")
     }
+
+
+    fun Hoge() {
+        Log.i("hasegawa", "こっちも変更しておきます。")
+    }
 }
