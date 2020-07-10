@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun featureHasegawa() {
-        Log.i("hasegawa", "feature_hasegawaの機能です")
+        Log.i("hasegawa", "feature_hasegawaの機能です(変更)")
     }
 }
