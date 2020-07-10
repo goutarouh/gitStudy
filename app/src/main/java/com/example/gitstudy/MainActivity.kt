@@ -25,4 +25,8 @@ class MainActivity : AppCompatActivity() {
     fun Hoge() {
         Log.i("hasegawa", "こっちも変更しておきます。")
     }
+
+    fun featureHasegawa() {
+        Log.i("hasegawa", "feature_hasegawaの機能です")
+    }
 }
