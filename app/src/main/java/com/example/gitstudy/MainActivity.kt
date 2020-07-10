@@ -15,5 +15,9 @@ class MainActivity : AppCompatActivity() {
         Log.i("hasegawa", "三回目のコミットはこちら")
 
         Log.i("hasegawa", "四回目はこちら")
+
+        Log.i("hasegawa", "さらに変更するよ")
+
+        Log.i("hasegawa", "まだまだ変更するよ")
     }
 }
