@@ -11,5 +11,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("hasegawa", "hasegawaのログ")
+
+        Log.i("hasegawa", "三回目のコミットはこちら")
+
+        Log.i("hasegawa", "四回目はこちら")
     }
 }
